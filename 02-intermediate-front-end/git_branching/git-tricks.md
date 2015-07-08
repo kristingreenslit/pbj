@@ -1,4 +1,4 @@
 # Git Tricks
 
 *Add your tricks below this line*
-gjewojfpoe
+practicing with branching
